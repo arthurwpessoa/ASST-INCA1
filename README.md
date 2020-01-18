@@ -22,5 +22,11 @@ Zero Waste Foods consists of a web application that provides low cost healthy lu
 **Note:** There's a single web application with different routes for admin and end-users.
 
 ## Install REST API
+Clone the Zero Waste Repository 
+
+```
+git clone https://github.com/arthurwpessoa/ASST-INCA1.git
+
+```
 
 ## Install Client Application
