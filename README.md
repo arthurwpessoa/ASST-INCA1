@@ -8,6 +8,8 @@
  - [Install REST API](#install-rest-api)
  - [Run Web Application locally](#run-web-application)
  - [Install Client Application in a Web Server](#install-client-application)
+ - [Libraries](#libaries)
+ - [Search Engine Optimization](#seo)
  
 ## Prerequists
 | Environment | Version |
@@ -133,3 +135,8 @@ Move the distribution content to the apache server application deployment: /clon
 
 
 **Note:**  The generated production files are meant to be served over an HTTP server. Opening index.html over file:// will not work.
+
+
+## Libraries
+
+The zero waste foods intends to be a simple and easy-to-deploy application, it uses light-weight frameworks, such as: Flight framework (Rest API), Vue.js (front-end) and Bootstrap for application design. The compiled sources are opitmal and easily portable when compared to similar server and client-side frameworks, 1.7 mb (client application) and 71 kb (REST API). Consequentially, the zero waste food application shall neither disrupt nor damage any deployed application already running in your web server. 
