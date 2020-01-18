@@ -75,7 +75,7 @@ $dbuser = "root";
 $dbpass = "root";
  ```
 
-2. Move the REST API application to the Apache server:  /cloned_dir/api folder to the php server instance /apache_install_dir/htdocs/zerowaste/api
+2. Move the REST API application to the Apache server:  /cloned_dir/api and /cloned_dir/assets folders to the php server instance /apache_install_dir/htdocs/zerowaste/api
 
 3. Test if the applicaton is running by accessing some of the zero waste api end-points. You should see a reply from the rest api with an authentication required message. e.g: http://localhost/zerowaste/api/orders/*
 
