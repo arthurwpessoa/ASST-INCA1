@@ -89,6 +89,18 @@ $dbpass = "root";
 
 ## Running Web application locally
 
+If you just want to run the application locally within an embeded web application server, you can go to the client application folder ( /cloned_dir/client/) and run the development environment:
+
+
+```
+npm run dev
+```
+
+After compilation, your application should be running locally 
+
+```
+Your application is running here: http://localhost:8080
+```
 
 ## Install Client Application in a Web Server
 
