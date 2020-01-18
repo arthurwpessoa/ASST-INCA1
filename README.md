@@ -24,7 +24,7 @@
 
 ## Introduction
 
-Zero Waste Foods consists of a web application that provides low cost healthy lunches to school and university students. The project scope englobes a client-side application and a REST API connecting with a target database (MySQL). 
+Zero Waste Foods consists of a web application that provides low cost healthy lunches to school and university students. The project scope englobes a client-side application and a REST API connecting with a target database (MySQL). This project was created for the first assignment of the Advanced Server-side Technologies module on the BSc(Hons) Computing program at Teesside University.
 
 **Note:** There's a single web application with different routes for admin and end-users.
 
