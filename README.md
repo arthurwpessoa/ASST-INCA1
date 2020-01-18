@@ -143,4 +143,16 @@ The zero waste foods intends to be a simple and easy-to-deploy application, it u
 
 ## Search Engine Optimization
 
-In order to provide a better visibility and optmization of the project, the zerowaste application was registered on 
+In order to provide a better visibility and optmization of the project, the zerowaste application can be registered in a serach engine. Visit the Google Search console website to register the deployed application.
+
+```
+https://www.google.com/webmasters/tools/
+```
+
+You will need to verify the ownership of the deployed application by adding a verification HTML file within your server, or adding a validation tag on the <head> tag on the client-side application
+ 
+```
+<meta name="google-site-verification" content="ZNr5ePPIYcxtvNDjbK1x9mSUQYLI-_g5CuIV5Y-W0Pg" />
+```
+
+**Note:**  The zero waste application was deployed under Teesside's premises, and therefore wasn't registered on Google Search Console engine, due to the limitation of access under the university's server. However, the application may be registered if deployed in any public server access by the world-wide-web.
