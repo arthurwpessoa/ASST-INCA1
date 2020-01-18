@@ -22,6 +22,8 @@ Zero Waste Foods consists of a web application that provides low cost healthy lu
 
 **Note:** There's a single web application with different routes for admin and end-users.
 
+## Creating zero waste database
+
 ## Install REST API
 1. Clone the Zero Waste Repository 
 ```
