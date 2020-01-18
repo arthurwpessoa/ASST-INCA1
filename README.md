@@ -140,3 +140,7 @@ Move the distribution content to the apache server application deployment: /clon
 ## Libraries
 
 The zero waste foods intends to be a simple and easy-to-deploy application, it uses light-weight frameworks, such as: Flight framework (Rest API), Vue.js (front-end) and Bootstrap for application design. The compiled sources are opitmal and easily portable when compared to similar server and client-side frameworks, 1.7 mb (client application) and 71 kb (REST API). Consequentially, the zero waste food application shall neither disrupt nor damage any deployed application already running in your web server. 
+
+## Search Engine Optimization
+
+In order to provide a better visibility and optmization of the project, the zerowaste application was registered on 
